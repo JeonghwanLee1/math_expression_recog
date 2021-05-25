@@ -1,5 +1,5 @@
 # TimeLine
-## Day 1 2021.05.24(월)
+## Day 1 - 2021.05.24(월)
  - Open Source Survey
    - https://github.com/lukas-blecher/LaTeX-OCR
    - vision transformer 기반 model
@@ -10,7 +10,7 @@
  - Background 복습
    - Instance Segmentation, Object Detection의 Task, Models 복습
 
-## Day 2 2021.05.25(화)
+## Day 2 - 2021.05.25(화)
  - 학습 set fold 분리
  
  - vision transformer를 이용한 초기 train 진행
