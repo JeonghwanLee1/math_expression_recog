@@ -12,6 +12,7 @@
 
 ## Day 2 (2021.05.25(화))
  - 학습 set fold 분리
-   - vision transformer를 이용한 초기 train 진행
+ 
+ - vision transformer를 이용한 초기 train 진행
    - 성능 : 
  
