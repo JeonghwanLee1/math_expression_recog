@@ -16,3 +16,4 @@
  - vision transformer를 이용한 초기 train 진행
    - 성능 : 
  
+ 
