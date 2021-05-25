@@ -12,7 +12,7 @@
 
 ## Day 2 - 2021.05.25(화)
  - 학습 set fold 분리
-   - stratified k-fold를 위한 class(수식의 난이도 0~4, 손글씨 여부 0~1 총 10 ) balanced fold dataset 생성 
+   - stratified k-fold를 위한 class(수식의 난이도 0-4, 손글씨 여부 0-1 총 10 ) balanced fold dataset 생성 
  - vision transformer를 이용한 초기 train 진행
    - 성능 : 
  
