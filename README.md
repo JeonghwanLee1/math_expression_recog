@@ -21,7 +21,7 @@
  - https://github.com/Media-Smart/vedastr 오픈 소스 분석 계속 진행
 
  - 필요 개념 학습
-   - Text Localization, Recognition
+   - [Text Localization](https://github.com/JeonghwanLee1/AI-study/blob/main/DL/text_localization.md), [Recognition](https://github.com/JeonghwanLee1/AI-study/blob/main/DL/text_recognition.md)
  
  - NLP 부족한 개념들 학습
    - Teacher Forcing
