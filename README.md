@@ -17,4 +17,16 @@
    - https://paperswithcode.com/sota/scene-text-recognition-on-icdar2015
    - https://github.com/Media-Smart/vedastr 오픈 소스 분석 시작(small-SATRN 모델)
  
+## Day 3 - 2021.05.26(수)
+ - https://github.com/Media-Smart/vedastr 오픈 소스 분석 계속 진행
+
+ - 필요 개념 학습
+   - Text Localization, Recognition
+ 
+ - NLP 부족한 개념들 학습
+   - Teacher Forcing
+   - loss function for Sequence to Sequence model
+ 
+ - Baseline code 
+ 
  
