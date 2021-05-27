@@ -29,4 +29,8 @@
  
  - Baseline code 
  
- 
+## Day 4 - 2021.05.27(목)
+ - ASTER 모델 논문 및 코드 구조 분석
+ - Baseline code에 Wandb 분석 코드 추가
+ - Wandb Team Project + Slack 연
+ - SATRN 모델 학습 시작
