@@ -38,5 +38,7 @@
 ## Day 5 - 2021.05.28(금)
  - Wandb Debug
    - step 제대로 안 찍히는 현상 등
+   - https://github.com/bcaitech1/p4-fr-soccer/pull/25
+   - https://github.com/bcaitech1/p4-fr-soccer/pull/29
  - SATRN 모델 구조 파악 및 논문 학습
  - pretrain recog model research 
