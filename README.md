@@ -25,6 +25,7 @@
  
  - NLP 부족한 개념들 학습
    - Teacher Forcing
+     - ground truth를 디코더의 다음 입력으로 넣어주는 기법  
    - loss function for Sequence to Sequence model
  
  - Baseline code 
