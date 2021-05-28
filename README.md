@@ -34,3 +34,9 @@
  - Baseline code에 Wandb 분석 코드 추가(https://github.com/bcaitech1/p4-fr-soccer/pull/22)
  - Wandb Team Project + Slack 연동
  - SATRN 모델 학습 시작
+
+## Day 5 - 2021.05.28(금)
+ - Wandb Debug
+   - step 제대로 안 찍히는 현상 등
+ - SATRN 모델 구조 파악 및 논문 학습
+ - pretrain recog model research 
