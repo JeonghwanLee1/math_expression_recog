@@ -49,4 +49,4 @@
  - Baseline 꿀팁
    - dataset.py에서 collate 사용 이유 : transformer 등에 사용(데이터 형태가 일반 모델과 다름 + 자연어처리에서 padding을 배치당 맥스 랭스로 줄 때 등 사용
    - iterable에서 하나만 갖고 오고 싶을 때 next(iter())
-   - 
+   - Inference 시 Greedy Best path 사용중인데, beam search  
