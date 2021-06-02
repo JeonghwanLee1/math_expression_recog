@@ -51,3 +51,16 @@
    - iterable에서 하나만 갖고 오고 싶을 때 next(iter())
    - Inference 시 Greedy Best path 사용중인데, beam search  
    - jupyter nbviewer
+
+## Day 6 - Day 8
+ - Break
+
+## Day 9 - 2021.06.01(화)
+- focal loss, cosine focal loss 모듈 추가(loss.py) 
+- ASTER에 focal loss(alpha=1, gamma=2, ignore_index=pad) 적용 후 학습중
+- [https://github.com/Media-Smart/vedastr](https://github.com/Media-Smart/vedastr) 구현중
+- beam search 구현중..
+
+## Day 10 - 2021.06.02(수)
+- focal loss 손절
+- [https://github.com/lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) 오픈소스 보기 + pretrained 가져오는 법 연구
