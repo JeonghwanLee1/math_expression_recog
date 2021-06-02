@@ -1,3 +1,5 @@
+# 소스 코드는 대회 규정상 2021.06.15 이후 
+
 # TimeLine
 ## Day 1 - 2021.05.24(월)
  - Open Source Survey
