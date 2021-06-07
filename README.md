@@ -66,3 +66,10 @@
 ## Day 10 - 2021.06.02(수)
 - focal loss 손절
 - [https://github.com/lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) 오픈소스 보기 + pretrained 가져오는 법 연구
+
+## Day 11 - Day 14
+ - Break
+
+## Day 15 - 2021.06.07(월)
+ - Vision Transformer 기반 모델 구현 및 학습 시작
+ - Small-SATRN 모델 분석 및 구현중
