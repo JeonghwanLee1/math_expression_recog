@@ -84,4 +84,5 @@
    - embedding을 operator, number, variable 등 카테고리를 나눠서 줄 수 있지 않을까?
    - Augmentation 적극 활용
    - ViT 모델은 Default Augmentation이 너무 과한 것 같다. input image 넣어서 Augmentation 체크하기
+   - image augmentation, lr, scheduler 수정 
  
