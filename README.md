@@ -71,5 +71,10 @@
  - Break
 
 ## Day 15 - 2021.06.07(월)
- - Vision Transformer 기반 모델 구현 및 학습 시작
+ - Vision Transformer 기반 모델 구현 중.. 
  - Small-SATRN 모델 분석 및 구현중
+
+## Day16 - 2021.06.08(화)
+ - Albumenatation Augmenation transform pipeline 적용 
+   - https://github.com/bcaitech1/p4-fr-soccer/discussions/70
+ - vision Transformer 기반 모델 다시 구현 중..
