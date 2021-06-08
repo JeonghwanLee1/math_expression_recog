@@ -77,10 +77,11 @@
 ## Day16 - 2021.06.08(화)
  - Albumenatation Augmenation transform pipeline 적용 
    - https://github.com/bcaitech1/p4-fr-soccer/discussions/70
- - vision Transformer 기반 모델 구현 성공
+ - Vision Transformer 기반 모델 구현 성공
    - Teacher Forcing, Masking 적용하기
  - idea
    - 안 쓰고 있는 input 값들이 있다(source, tokens, level). 인풋으로 쓸 수 있지 않을까?
    - embedding을 operator, number, variable 등 카테고리를 나눠서 줄 수 있지 않을까?
    - Augmentation 적극 활용
+   - ViT 모델은 Default Augmentation이 너무 과한 것 같다. input image 넣어서 Augmentation 체크하기
  
