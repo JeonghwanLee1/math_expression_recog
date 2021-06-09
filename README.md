@@ -88,7 +88,7 @@
  
  ## Day17 - 2021.06.09(수)
  - ViT 추가 기능들 구현 중
-   - Tacher Forcing
+   - Tacher Forcing (학습 후반부 갈수록 작아지게)
    - Masking 
  - idea
    - 평가 score는 sentence accuracy(문장 전체가 맞아야 함) -> loss에서 문장 전체가 맞지 않으면 penalty 주면 좋지 않을까?  
