@@ -92,3 +92,13 @@
    - Masking 
  - idea
    - 평가 score는 sentence accuracy(문장 전체가 맞아야 함) -> loss에서 문장 전체가 맞지 않으면 penalty 주면 좋지 않을까?  
+  
+ ## Day18 - 2021.06.10(목)
+ - ViT 모델 결과 확인 및 분석
+     1) Train Score, Validation Score 차이가 너무 큼 -> Augmentation이 적합하지 않다는 결론(실제 데이터와 다른 방향의 증강을 한 것 같음)
+     2) 전체적인 Sentence 문맥 예측보다 Symbol 예측을 훨씬 잘 함 -> Encoder, Backbone 문제일 가능성이 높음
+     3) Loss가 너무 낮음 -> Pad token을 ignore해주지 않아 전체적으로 loss값이 작아진듯
+     4) 학습 중 score가 더디게 항상 증가하는 경향 -> lr이 너무 낮은 듯. 3)의 영향도 있을 것
+ - 추가 구현
+     - swin transformer 구현 중
+     - teacher forcing  
