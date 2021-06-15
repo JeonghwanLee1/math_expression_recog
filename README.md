@@ -1,6 +1,6 @@
 # 소스 코드는 대회 규정상 2021.06.15 이후 공개 가능
 
-notion : https://www.notion.so/WrapUp-Report-50a8b75b36c94dbcb28226aa5b1e1ff3
+총 정리 : https://www.notion.so/WrapUp-Report-50a8b75b36c94dbcb28226aa5b1e1ff3
 
 # TimeLine
 ## Day 1 - 2021.05.24(월)
