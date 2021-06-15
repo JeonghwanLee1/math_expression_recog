@@ -102,3 +102,7 @@
  - 추가 구현
      - swin transformer 구현 중
      - teacher forcing  
+
+## Day 17 ~
+ - STARN Models, ViT Models soft Ensemble 
+ - Swin Transformer 구현 성공(성능이 좋지 않아 사용 x)
